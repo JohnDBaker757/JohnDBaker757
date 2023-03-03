@@ -7,6 +7,8 @@
   
 
 <h2>🤳Connect with me:</h2>
+  
+  <h1>JohnDBaker757@gmail.com
 
 
 
