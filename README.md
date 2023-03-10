@@ -5,8 +5,8 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com//JohnDBaker757/osticket-prereqs
   
-  <b>Microsoft Azure</b>
-  -[Configuring On-Premise Active Directory within Azure VM's](https://i.imgur.com/eALopkU.jpg)
+- <b>Microsoft Azure</b>
+   -[Configuring On-Premise Active Directory within Azure VM's](https://i.imgur.com/eALopkU.jpg)
   
   
   
