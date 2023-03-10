@@ -7,7 +7,7 @@
   
 - <b>Microsoft Azure</b>
    -[Configuring On-Premise Active Directory within Azure VM's](https://i.imgur.com/eALopkU.jpg)
-  
+   -[Install Active Directory](https://i.imgur.com/oNgttwv.jpg)
   
   
 
